@@ -12,7 +12,7 @@
 - 🎓 I’m an undergraduate at the **University of Moratuwa**, studying **Information Technology and Management**.
 - 💻 Passionate about **Full-Stack Development**, especially using **MERN Stack**.
 - 🌱 Currently learning **Laravel**, **GraphQL**, and enhancing my UI/UX skills.
-- 📫 How to reach me: **uthumwijenayake@example.com**
+- 📫 How to reach me: **uthumwijenayake@gmail.com**
 - 🚀 Always excited to work on real-world projects and collaborate!
 
 ---
